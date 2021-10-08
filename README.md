@@ -1,1 +1,1 @@
-# Cinema_Booking
+# CinemaBooking
